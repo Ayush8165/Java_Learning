@@ -1,1 +1,1 @@
-Ayush and Piyush java learning repo.
+Ayush and Piyush java learning repository.
